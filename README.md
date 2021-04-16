@@ -12,7 +12,7 @@ Future work:
 
 # Requirements:
 
-  Python2.7 or above.
+  Python3
   
   Chromedriver, latest version
   
