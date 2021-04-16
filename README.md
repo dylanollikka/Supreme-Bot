@@ -13,7 +13,9 @@ Future work:
 # Requirements:
 
   Python2.7 or above.
+  
   Chromedriver, latest version
+  
   Selenium
   
 
